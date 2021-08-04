@@ -10,8 +10,16 @@
 
 # next.js
 /.next/
-/out/
 
+/pages/
+/public/
+/styles/
+yarn.lock
+package.json
+next.config.js
+README.md
+.gitgnore
+.eslintrc
 # production
 /build
 
